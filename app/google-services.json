@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1001359187916",
+    "firebase_url": "https://rxkotlin.firebaseio.com",
+    "project_id": "rxkotlin",
+    "storage_bucket": "rxkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001359187916:android:4d899e933dc72e07",
+        "android_client_info": {
+          "package_name": "com.nafsol.talhasedev.rxkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001359187916-ie71sjulfepqvmfaj7qm9km04ehb5kg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDshDzGu3AvGjVA7X3c7XUYFuiJsB3QGuo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
